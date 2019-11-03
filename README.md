@@ -20,11 +20,11 @@
 ![#DA70D6](https://placehold.it/15/48D1CC/000000?text=+) `Released at 03.11.2019`  
 
 <p align="center">
-  <img width="460" height="977" src="https://i.imgur.com/E4Yxma8.png">
+  <img width="977" height="360" src="https://i.imgur.com/E4Yxma8.png">
 </p>
 <p align="center">
-  <img width="460" height="977" src="https://i.imgur.com/dL54nL3.png">
+  <img width="977" height="360" src="https://i.imgur.com/dL54nL3.png">
 </p>
 <p align="center">
-  <img width="460" height="977" src="https://i.imgur.com/SdQXI1C.png">
+  <img width="977" height="360" src="https://i.imgur.com/SdQXI1C.png">
 </p>
